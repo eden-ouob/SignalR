@@ -2,9 +2,13 @@
 
 * [Beforehand](README.md)
 
+## Main object
+
+* [SignalR Hub (ASP.Net Core)](main-object/signalr-hub-asp.net-core.md)
+* [SignalR Frontend View (Javascript)](main-object/signalr-frontend-view-javascript.md)
+
 ## Hubs
 
-* [SignalR Hub (ASP.Net Core)](hubs/signalr-hub-asp.net-core.md)
 * [NoiseHub](hubs/noisehub.md)
 
 ## Controllers
@@ -13,7 +17,6 @@
 
 ## Views
 
-* [SignalR Frontend View (Javascript)](views/signalr-frontend-view-javascript.md)
 * [SignalR.cshtml](views/signalr.cshtml.md)
 
 ## Implementation

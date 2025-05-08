@@ -9,7 +9,7 @@
     </div>
 ```
 
-\<script> 區域處理 SignalR 連線，詳細說明如[ SignalR Frontend View (Javascript) 頁面](signalr-frontend-view-javascript.md)
+\<script> 區域處理 SignalR 連線，詳細說明如[ SignalR Frontend View (Javascript) 頁面](../main-object/signalr-frontend-view-javascript.md)
 
 ***
 
