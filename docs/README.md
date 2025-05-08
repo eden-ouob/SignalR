@@ -4,6 +4,10 @@ description: Before implementing ASP.Net MVC SignalR
 
 # Beforehand
 
+Upload link: [<kbd>Gitbook</kbd>](https://edenouos-organization.gitbook.io/notes/signalr-asp.net-mvc)[<kbd>Github</kbd>](https://github.com/eden-ouob/SignalR)
+
+***
+
 預期呈現：以 SignalR 及時將伺服器端數據更新至網頁上
 
 <figure><img src=".gitbook/assets/1746520282639 (2).gif" alt=""><figcaption></figcaption></figure>
