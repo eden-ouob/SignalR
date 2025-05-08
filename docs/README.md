@@ -1,5 +1,5 @@
 ---
-description: Before implementing ASP.Net MVC SignalR
+description: Implementing ASP.Net MVC SignalR
 ---
 
 # Beforehand
