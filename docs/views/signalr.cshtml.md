@@ -1,0 +1,80 @@
+# SignalR.cshtml
+
+在 \<div> 區域顯示 SignalR 推送數據
+
+```javascript
+    <!-- 顯示噪音數據的區域 -->
+    <div class="noise-data" id="noiseData">
+        <div>噪音：等待偵測結果...</div>
+    </div>
+```
+
+\<script> 區域處理 SignalR 連線，詳細說明如[ SignalR Frontend View (Javascript) 頁面](signalr-frontend-view-javascript.md)
+
+***
+
+整體程式碼：
+
+{% code lineNumbers="true" %}
+```javascript
+@{
+    Layout = null;  // 這樣就不使用任何 Layout，這會移除 header 和 footer 部分
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SignalR</title>
+    <script src="/js/signalr.min.js"></script>
+    <style>
+        /* 顯示噪音數據區域 */
+        .noise-data {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #333;
+            font-weight: bold; /* 這裡確保字體為粗體 */
+        }
+    </style>
+</head>
+<body>
+    <!-- 顯示噪音數據的區域 -->
+    <div class="noise-data" id="noiseData">
+        <div>噪音：等待偵測結果...</div>
+    </div>
+
+    <script>                
+        // 設定 SignalR 連線
+        const connection_noise = new signalR.HubConnectionBuilder()
+            .withUrl("/noiseHub")  // 設定 SignalR noiseHub 的 URL
+            .build();
+
+        // 當接收到噪音數據時，更新顯示
+        connection_noise.on("ReceiveNoiseData", function (noiseData) {
+            document.getElementById("noiseData").innerText = "噪音：" + noiseData + 'dB';
+        });
+
+        // 開始連接 SignalR: noise
+        connection_noise.start().then(function() {
+            console.log("SignalR_noise 連接已經啟動！");
+
+            // 只有在連接成功後才開始每秒請求時間更新
+            setInterval(function() {
+                if (connection_noise.state === signalR.HubConnectionState.Connected) {
+                    connection_noise.invoke("SendNoiseData").catch(function (err) {
+                        return console.error(err.toString());
+                    });
+                } else {
+                    console.log("SignalR_noise 尚未連接，無法發送請求");
+                }
+            }, 500);
+
+        }).catch(function(err) {
+            console.error("SignalR_noise 連接錯誤: " + err);
+        });
+    </script>
+</body>
+</html>
+
+```
+{% endcode %}
