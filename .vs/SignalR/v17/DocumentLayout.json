@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\SignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|d:\\test\\signalr\\otosignalr\\signalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|solutionrelative:otosignalr\\signalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|d:\\test\\signalr\\otosignalr\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|solutionrelative:otosignalr\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|d:\\test\\signalr\\otosignalr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|solutionrelative:otosignalr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|d:\\test\\signalr\\otosignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|solutionrelative:otosignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|d:\\test\\signalr\\otosignalr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|solutionrelative:otosignalr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|d:\\test\\signalr\\otosignalr\\hubs\\noisehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|solutionrelative:otosignalr\\hubs\\noisehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|d:\\test\\signalr\\otosignalr\\views\\signalr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|solutionrelative:otosignalr\\views\\signalr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|d:\\test\\signalr\\otosignalr\\controllers\\signalrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53B9FB4-E135-49EA-8D1C-C20A5E623EB2}|otoSignalR\\SignalR.csproj|solutionrelative:otosignalr\\controllers\\signalrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignalR.csproj",
+              "DocumentMoniker": "D:\\test\\SignalR\\otoSignalR\\SignalR.csproj",
+              "RelativeDocumentMoniker": "otoSignalR\\SignalR.csproj",
+              "ToolTip": "D:\\test\\SignalR\\otoSignalR\\SignalR.csproj",
+              "RelativeToolTip": "otoSignalR\\SignalR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T04:01:56.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\test\\SignalR\\otoSignalR\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "otoSignalR\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\test\\SignalR\\otoSignalR\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "otoSignalR\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:32:15.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\test\\SignalR\\otoSignalR\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "otoSignalR\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\test\\SignalR\\otoSignalR\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "otoSignalR\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:42:43.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test\\SignalR\\otoSignalR\\Program.cs",
+              "RelativeDocumentMoniker": "otoSignalR\\Program.cs",
+              "ToolTip": "D:\\test\\SignalR\\otoSignalR\\Program.cs",
+              "RelativeToolTip": "otoSignalR\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:50:21.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\test\\SignalR\\otoSignalR\\appsettings.json",
+              "RelativeDocumentMoniker": "otoSignalR\\appsettings.json",
+              "ToolTip": "D:\\test\\SignalR\\otoSignalR\\appsettings.json",
+              "RelativeToolTip": "otoSignalR\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T07:50:19.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoiseHub.cs",
+              "DocumentMoniker": "D:\\test\\SignalR\\otoSignalR\\Hubs\\NoiseHub.cs",
+              "RelativeDocumentMoniker": "otoSignalR\\Hubs\\NoiseHub.cs",
+              "ToolTip": "D:\\test\\SignalR\\otoSignalR\\Hubs\\NoiseHub.cs",
+              "RelativeToolTip": "otoSignalR\\Hubs\\NoiseHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:38:23.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\test\\SignalR\\otoSignalR\\Views\\SignalR\\Index.cshtml",
+              "RelativeDocumentMoniker": "otoSignalR\\Views\\SignalR\\Index.cshtml",
+              "ToolTip": "D:\\test\\SignalR\\otoSignalR\\Views\\SignalR\\Index.cshtml",
+              "RelativeToolTip": "otoSignalR\\Views\\SignalR\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T07:33:15.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignalRController.cs",
+              "DocumentMoniker": "D:\\test\\SignalR\\otoSignalR\\Controllers\\SignalRController.cs",
+              "RelativeDocumentMoniker": "otoSignalR\\Controllers\\SignalRController.cs",
+              "ToolTip": "D:\\test\\SignalR\\otoSignalR\\Controllers\\SignalRController.cs",
+              "RelativeToolTip": "otoSignalR\\Controllers\\SignalRController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:32:08.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
